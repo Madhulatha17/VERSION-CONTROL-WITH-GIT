@@ -1,0 +1,2 @@
+This file is used for merge conflict demonstration.
+Feature branch version
