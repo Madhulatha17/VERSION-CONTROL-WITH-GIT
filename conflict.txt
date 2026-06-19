@@ -1,2 +1,2 @@
-This file is used for merge conflict demonstration.
-Main branch version
+This file demonstrates merge conflict resolution.
+Main + Feature branch changes combined successfully.
